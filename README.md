@@ -9,3 +9,5 @@ LINK INSTALL Evidence : https://drive.google.com/file/d/1YHMIJh7JuGmyJF8WLYK8rWK
 
 LINK write up :- https://medium.com/@ahmadmassas342/aliens-ctf-dfir-8a794c6a8173
 
+This written solution is from one of the contestants and he is the only one who solved the challenge after 4 hours of trying. I appreciate his effort.
+
